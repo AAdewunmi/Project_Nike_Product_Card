@@ -2,7 +2,7 @@
 
 ## What is the project? 
 
-The aim of this is to build a replica Nike Product Card using HTML, CSS and JavaScript.
+The aim of this project is to build a clone of a Nike Product Card using HTML, CSS and JavaScript.
 
 ## Tech Stack:
 
