@@ -24,3 +24,12 @@ html{
     display: grid;
     place-items: center;
 }
+
+.card-wrapper{
+    width: 50rem;
+    height: 70rem;
+    background: #ccc;
+    padding: 0 10rem;
+    display: grid;
+    place-items: center;
+}
