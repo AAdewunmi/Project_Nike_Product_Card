@@ -115,3 +115,9 @@ html{
 .stars i:last-child{
    opacity: 0.4;
 }
+
+.size{
+    margin-bottom: 3rem;
+}
+
+
