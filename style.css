@@ -129,5 +129,10 @@ html{
     margin-bottom: 1.3rem;
 }
 
-
+.sizes{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(3rem, 1fr));
+    grid-gap: 0.5rem;
+    margin-bottom: 1rem;
+}
 
