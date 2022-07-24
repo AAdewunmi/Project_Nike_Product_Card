@@ -224,3 +224,11 @@ html{
 .container.change .price{
     background: #c02244;
 }
+
+.shoe-2{
+    width: 35rem;
+    position: absolute;
+    top: -10rem;
+    right: -45rem;
+}
+
