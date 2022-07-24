@@ -53,6 +53,7 @@ html{
     padding: 3rem;
     display: grid;
     border-radius: 2.5rem 2.5rem 0 0;
+    transition: background 0.5s;
 }
 
 .card-top-text{
@@ -194,6 +195,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: background 0.5s;
 }
 
 .price span{
@@ -213,4 +215,12 @@ html{
     font-weight: bolder;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
+}
+
+.container.change .card-top{
+    background: #d35246;
+}
+
+.container.change .price{
+    background: #c02244;
 }
