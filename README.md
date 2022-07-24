@@ -1,14 +1,12 @@
-# Project: Nike Product Card Clone
+# Nike Product Card Clone Project
 
-## What is the project? 
+## 1. Project Description:
 
-The aim of this project is to build a clone of a Nike Product Card using HTML, CSS and JavaScript.
+Build a clone of a Nike Product Card using HTML, CSS and JavaScript.
 
-It will demonstrate the skills required to build a custom card instead of using pre-built cards in 
+It demonstrates the skills required to build a custom card instead of using pre-built templates such as Bootstrap card etc.
 
-Bootstrap etc.
-
-## Tech Stack:
+## 2. Tech Stack:
 
 1. HTML 
 
@@ -16,20 +14,36 @@ Bootstrap etc.
 
 3. JavaSript 
 
-## What is the MVP?
+## 3. Installing:
 
-An interactive Card.
+1. Clone the repo
 
-## What are the sprinkles (Nice to haves)? 
+```
+https://github.com/AAdewunmi/Project_Nike_Product_Card.git
+```
 
-## When will the project be complete? 
+2. Open Project Folder
 
-The project will be complete once all the MVP features have been implemented.
+3. Explore
+
+4. Open index.html in Visual Studio Code, using Live Server
+
+5. Click on a color to experience a transition between shoes.
+
+Enjoy :)
+
+## 4. Screenshots
+
+
+![Image description](images/orange_shoe.png)
+
+
+![Image description](images/red_shoe.png)
 
 ## Adapted from:
 
 
-UDEMY: 50+ Web Projects with HTML, CSS, and JavaScript.
+UDEMY Course: 50+ Web Projects with HTML, CSS, and JavaScript.
 
 Project Name: Project 3:  Nike Product Card 
 
